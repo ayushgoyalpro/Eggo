@@ -1,0 +1,1 @@
+D:\Research\Detection of fraudulent eggs\Eggo\opencv\build\intermediates\cxx\RelWithDebInfo\52k4vw72\obj\arm64-v8a

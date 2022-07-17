@@ -1,0 +1,1 @@
+D:\Research\Detection of fraudulent eggs\Eggo\opencv\build\intermediates\cxx\Debug\2548654e\obj\arm64-v8a
